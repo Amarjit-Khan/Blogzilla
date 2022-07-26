@@ -1,0 +1,3 @@
+[submodule "blog-frontend"]
+	path = blog-frontend
+	url = https://github.com/Amarjit-Khan/Blogzilla-Frontend.git
